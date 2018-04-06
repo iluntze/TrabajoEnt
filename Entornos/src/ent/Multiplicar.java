@@ -21,7 +21,7 @@
 			}
 			
 			public static void main (String[] arg){
-				
+				System.out.println("Esto es una prueba");
 				Multiplicar obj = new Multiplicar();
 				
 				obj.numeros();
